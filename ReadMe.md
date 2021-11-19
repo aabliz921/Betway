@@ -14,7 +14,6 @@ alimdjan921@gmail.com
 - Selenium WebDriver
 - Cucumber 
 - Maven
-- Extent Reports and logging
 
 ------------
 ## Test RUN 
@@ -38,7 +37,7 @@ Test Reports Locations
 ## Test Reports Locations
 - Screenshot on test failure: A screenshot of the active browser is captured and stored in the screenshots folder
 
-2020 November;
+2021 November;
 
 ### End
 
